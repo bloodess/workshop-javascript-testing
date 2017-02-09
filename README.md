@@ -1,6 +1,6 @@
 # workshop-javascript-testing
 
-Repo Perso Cours de Javascript
+Test 
 
 ## Install
 
