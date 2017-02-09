@@ -1,6 +1,6 @@
 # workshop-javascript-testing
 
-Workshop given with Ynov's students
+Repo Perso Cours de Javascript
 
 ## Install
 
